@@ -5,7 +5,7 @@ A fun and interactive **Memory Card Game** built using **HTML**, **CSS**, and **
 ## 🎮 Game Features
 
 - Flip cards to reveal icons
-- Match identical pairs to remove them
+- Match identical pairs to remove it
 - Move counter and timer
 - Smooth animations and responsive design
 - Game resets automatically when completed

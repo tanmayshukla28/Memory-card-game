@@ -18,7 +18,7 @@ A fun and interactive **Memory Card Game** built using **HTML**, **CSS**, and **
 - **CSS3** – Styling and animations
 - **Vanilla JavaScript** – Game logic, DOM manipulation, and interactivity
 
------
+---
 
 ## 📁 Project Structure
 

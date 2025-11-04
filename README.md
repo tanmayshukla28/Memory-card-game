@@ -10,7 +10,7 @@ A fun and interactive **Memory Card Game** built using **HTML**, **CSS**, and **
 - Smooth animations and responsive design
 - Game resets automatically when completed
 
------
+---
 
 ## 🛠️ Technologies Used
 

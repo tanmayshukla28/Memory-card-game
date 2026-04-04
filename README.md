@@ -98,7 +98,7 @@ This project is licensed under the **MIT License**.
 **Tanmay Shukla**  
 GitHub: https://github.com/tanmayshukla28  
 
----
+-----
 
 ## ⭐ Support
 
